@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Maximizando Seu Potencial: Nutrição, Musculação e Desempenho Profissional
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora a conexão entre nutrição, musculação e sucesso profissional. A partir do livro de alguns artigos e reportagem, analisamos como uma alimentação equilibrada e um programa de exercícios bem estruturado podem contribuir para a saúde, bem-estar e desempenho no trabalho.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT – Para auxiliar na análise do conteúdo e na escrita do projeto.
+
+Canva – Para criar materiais visuais e apresentações.
+
+Leonard.AI – Para aprimoramento da criação de textos e otimização de conteúdo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Uso de IAs Generativas: As ferramentas foram utilizadas para reformular trechos, criar descrições mais envolventes e gerar insights para otimizar a apresentação do projeto.
+
+Organização do Material: O Canva foi utilizado para formatar e estruturar o conteúdo de forma visualmente atraente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Compilação de informações relevantes sobre nutrição e musculação para o desempenho profissional.
 
+Criação de um material organizado e de fácil compreensão para o público-alvo.
+
+Exploração de IAs para otimizar a escrita e a apresentação visual do projeto.
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar um conteúdo que pareça natural ao mesmo tempo que utiliza IAs generativas foi um desafio interessante. A combinação de tecnologia e conhecimento humano proporcionou um material mais completo, permitindo uma abordagem inovadora sobre a relação entre nutrição, exercícios e sucesso profissional.
